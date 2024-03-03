@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://img.freepik.com/free-photo/expressive-redhead-guy-beige-shirt_176420-32329.jpg?w=740&t=st=1709412391~exp=1709412991~hmac=f733cb314b14911f21bdef1700f1641c15eaad6c2229a511d3a122f45e64006a",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://img.freepik.com/free-photo/young-determined-armenian-curlyhaired-female-university-student-listen-carefully-asignment-look-confident-ready-task-cross-hands-chest-smiling-selfassured-standing-white-background_176420-56066.jpg?t=st=1709412533~exp=1709416133~hmac=66cb91ccab7da76036edc415f5aa1545c3ce8a79d6ae7e82e666167f70c1b444&w=740",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://img.freepik.com/free-photo/young-bearded-man-with-white-t-shirt_273609-7187.jpg?t=st=1709413047~exp=1709416647~hmac=40cbbbe76b46804299a0d31fd4258271d78e894ca33f69121f30cdc6228c7e01&w=740",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?t=st=1709412496~exp=1709416096~hmac=4d3a222ee4248b3ed10f839737228e41318f7ce0088a242cb2d7dddee50f7a06&w=740",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://img.freepik.com/free-photo/stylish-confident-businesswoman-smiling_176420-19466.jpg?t=st=1709412973~exp=1709416573~hmac=cd3512f0aa0e84d37d14cce8bff83c25f1cf76d74a2dc7fbc2a2371f93b6cab7&w=740",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
